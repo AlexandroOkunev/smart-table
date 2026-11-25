@@ -4,6 +4,8 @@
 
 Переиспользуемый компонент таблицы данных на Vanilla JavaScript с поиском, фильтрацией, сортировкой и пагинацией. Построен на модульной архитектуре без фреймворков.
 
+[![Скриншот приложения](./smart-table.png)](https://alexandrookunev.github.io/smart-table/)
+
 ## Демо
 
 - GitHub Pages: https://alexandrookunev.github.io/smart-table/
